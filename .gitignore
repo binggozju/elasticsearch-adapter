@@ -1,0 +1,10 @@
+# logs
+logs/*
+
+# target
+target/*
+
+# others
+.classpath
+.project
+.settings
