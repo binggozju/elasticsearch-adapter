@@ -15,6 +15,6 @@ public class ESAdapterApplication
 		SpringApplication app = new SpringApplication(ESAdapterApplication.class);
 		app.run(args);
 		
-		logger.info("start msgsender service successfully.");
+		logger.info("start elasticsearch-adapter service successfully.");
     }
 }
